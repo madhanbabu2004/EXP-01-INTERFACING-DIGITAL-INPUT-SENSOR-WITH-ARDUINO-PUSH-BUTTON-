@@ -90,7 +90,7 @@ After simulation
 
 ![output](./jj.png)
  
- 
+ ![output](./JJ.png)
  
 
 
