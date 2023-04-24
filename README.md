@@ -27,8 +27,10 @@ EEPROM	512 bytes (ATmega168) or 1 KB (ATmega328)
 Clock Speed	16 MHz
 PIN DIAGRAM FOR ATMEGA 328
 
-
-
+## FIGURE 1
+![output](./9.png)
+## FIGURE 2
+![output](./8.png)
 
 ## PROCEDURE 
  Open tinker cad account 
@@ -47,8 +49,8 @@ PIN DIAGRAM FOR ATMEGA 328
 
 ## CIRCUIT DIAGRAM 
 
-![output](./JJ1.png)
 
+![output](./77.png)
 
 
 
@@ -84,7 +86,7 @@ void loop()
  
 Before simulation
 
-![output](./JJ1.png) 
+![output](./JJ1.png)
 
 After simulation
 
