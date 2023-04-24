@@ -47,7 +47,7 @@ PIN DIAGRAM FOR ATMEGA 328
 
 ## CIRCUIT DIAGRAM 
 
-![output](./jj1.png)
+![output](./JJ1.png)
 
 
 
@@ -84,11 +84,11 @@ void loop()
  
 Before simulation
 
-![output](./jj1.png) 
+![output](./JJ1.png) 
 
 After simulation
 
-![output](./jj.png)
+
  
  ![output](./JJ.png)
  
