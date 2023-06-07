@@ -94,6 +94,8 @@ After simulation
  
  ![output](./JJ.png)
  
+## RESULT
+Interface a digital input (push button) and blink and LED upon activation is sucessfully excicuted.
 
 
 
